@@ -14,7 +14,7 @@ Before running the application, ensure you have the following installed on your 
 1. Clone the repository or download the project files to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Benevanio/game-api
 cd <project-folder>
 ```
 
